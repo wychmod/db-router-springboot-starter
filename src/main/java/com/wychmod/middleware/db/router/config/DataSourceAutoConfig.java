@@ -22,7 +22,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @description: 数据源配置解析
+ * @description: 数据源配置解析, EnvironmentAware可以感知到spring管理的环境变量。
  * @author: wychmod
  * @date: 2022/11/2
  */
