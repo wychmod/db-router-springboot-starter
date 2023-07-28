@@ -85,7 +85,7 @@ public class DataSourceAutoConfig implements EnvironmentAware {
     }
 
     /**
-     * 动态配置数据源
+     * 动态配置数据源,以及配置默认数据源
      * @return 数据源
      */
     @Bean
